@@ -3,4 +3,4 @@
 
 ## Login
 
-![alt text](src/img1.jpg?raw=true)
+![alt text](src/img1.jpg)
